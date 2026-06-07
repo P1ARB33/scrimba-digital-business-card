@@ -4,7 +4,7 @@ import Content from "./Content"
 
 export default function App() {
     return (
-        <main>
+        <main className="card">
             <Header />
             <Content />
             <Footer />
