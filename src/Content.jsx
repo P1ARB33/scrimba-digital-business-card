@@ -9,7 +9,7 @@ export default function Content() {
             </p>
 
             <h2>Interests</h2>
-            <p>Making and eating food. Caffeine consumer. First Aid safety and training.</p>
+            <p>Making and eating food. Caffeine consumer. First Aid safety and training. Entrepreneurship.</p>
         </div>
     )
 }
