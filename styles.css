@@ -9,7 +9,7 @@ body {
 
 /* Main Card */
 .card {
-    max-width: 400px;
+    max-width: 317px;
     background-color: #1A1B21;
     margin: 20px;
 }
@@ -98,4 +98,24 @@ body {
 
 .linkedin-button:active {
     transform: scale(0.98);
+}
+
+/* Body Text styling */
+
+.text-container {
+    margin: 1rem;
+}
+
+.text-container > h2 {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+.text-container > p {
+    margin: 0.5rem 0;
+    font-size: 0.62rem;
+    color: #FFFFFF;
+    font-weight: 400;
 }
